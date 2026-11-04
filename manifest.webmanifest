@@ -1,9 +1,10 @@
 {
-  "name": "Pakistan Studies 2059 - Unit 1",
-  "short_name": "PST Unit 1",
+  "name": "Pakistan Studies 2059 - The Land of Pakistan",
+  "short_name": "PST 2059",
+  "description": "An interactive learning guide for Pakistan Studies 2059 Unit 1.",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#0f172a",
-  "description": "Interactive Pakistan Studies 2059 Paper 2 Unit 1 study app."
+  "background_color": "#080808",
+  "theme_color": "#080808"
 }
